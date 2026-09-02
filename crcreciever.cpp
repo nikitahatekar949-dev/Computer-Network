@@ -51,3 +51,10 @@ int main()
 
     return 0;
 }
+
+
+//output:-
+Enter received codeword: 10111000
+Enter generator: 1101
+Remainder: 000
+No error detected.

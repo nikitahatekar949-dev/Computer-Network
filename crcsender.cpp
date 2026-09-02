@@ -48,7 +48,7 @@ int main()
 
 
 
-output:-
+//output:-
 Enter data bits: 10111
 Enter generator bits: 1101
 
