@@ -45,3 +45,12 @@ int main()
 
     return 0;
 }
+
+
+
+output:-
+Enter data bits: 10111
+Enter generator bits: 1101
+
+Remainder: 000
+Transmitted Codeword: 10111000
